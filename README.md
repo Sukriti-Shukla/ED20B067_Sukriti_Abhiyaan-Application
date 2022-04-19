@@ -16,10 +16,10 @@ ED20B067 <br />
 </ul><br />
 <h3>Current PORs:</h3>
 <li>Project Member, CVI club</li>
-<li>Summer Intern, Great Eagle Tech</li>
+<li>Summer Intern (Web Development), Great Eagle Tech</li>
 <br />
 <h3>Why I want to work in the team:</h3>
-Cause it's the most exiting vertical of the most exiting competition team :) <br />
+Cause it's the most exiting module of the most exiting competition team :) <br />
 <h3>Relevant Courses:</h3> <br />
 <h3>In Institute</h3> <br />
 <ul>
