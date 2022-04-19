@@ -11,7 +11,7 @@ ED20B067 <br />
 <ul>
 <li>E Cell (Webops), Manager</li>
 <li>IAR Corporate Relations Cell, Manager</li>
-<li>Shaastra Publicity, Corrdinator</li>
+<li>Shaastra Publicity, Cordinator</li>
 <li>Contigent, Inter IIT Tech Meet (PS: Digital Apha)</li>
 </ul><br />
 <h3>Current PORs:</h3>
