@@ -20,14 +20,14 @@ ED20B067 <br />
 <br />
 <h3>Why I want to work in the team:</h3>
 Cause it's the most exiting module of the most exiting competition team :) <br />
-<h3>Relevant Courses:</h3> <br />
-<h3>In Institute</h3> <br />
+<h3>Relevant Courses:</h3> 
+<h3>In Institute</h3> 
 <ul>
 <li>ED1021, Introduction to computation and visualisation: 0 </li>
 <li>ED2090, Geometric Modelling and CAD: 0 </li>
 <li>CH5019, Mathematical Foundations of Data Science: 1 </li>
 </ul><br />
-<h3>Online </h3><br />
+<h3>Online </h3>
 <ul>
 <li>Neural Networks and Deep Learning: Andrew NG Deeplearning.ai </li>
 <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization: Andrew NG Deeplearning.ai </li>
