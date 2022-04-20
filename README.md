@@ -32,7 +32,7 @@ Cause it's the most exiting module of the most exiting competition team :) <br /
 <li>Neural Networks and Deep Learning: Andrew NG Deeplearning.ai </li>
 <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization: Andrew NG Deeplearning.ai </li>
 </ul>
-<h3> Other Relevant Things: </h3><br />
+<h3> Other Relevant Things: </h3>
 I am the one. <br />
 <h3> Did you attempt bonus questions:</h3> <br />
 1. No <br />
