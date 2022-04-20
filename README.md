@@ -26,7 +26,7 @@ Cause it's the most exiting module of the most exiting competition team :) <br /
 <li>ED1021, Introduction to computation and visualisation: 0 </li>
 <li>ED2090, Geometric Modelling and CAD: 0 </li>
 <li>CH5019, Mathematical Foundations of Data Science: 1 </li>
-</ul><br />
+</ul>
 <h3>Online </h3>
 <ul>
 <li>Neural Networks and Deep Learning: Andrew NG Deeplearning.ai </li>
