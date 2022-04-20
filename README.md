@@ -13,7 +13,7 @@ ED20B067 <br />
 <li>IAR Corporate Relations Cell, Manager</li>
 <li>Shaastra Publicity, Cordinator</li>
 <li>Contigent, Inter IIT Tech Meet (PS: Digital Apha)</li>
-</ul><br />
+</ul>
 <h3>Current PORs:</h3>
 <li>Project Member, CVI club</li>
 <li>Summer Intern (Web Development), Great Eagle Tech</li>
@@ -34,7 +34,7 @@ Cause it's the most exiting module of the most exiting competition team :) <br /
 </ul>
 <h3> Other Relevant Things: </h3>
 I am the one. <br />
-<h3> Did you attempt bonus questions:</h3> <br />
+<h3> Did you attempt bonus questions:</h3>
 1. No <br />
 2. No <br />
 3. Yes <br />
